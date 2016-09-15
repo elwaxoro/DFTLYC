@@ -1,15 +1,15 @@
 # DFTLYC
 Don't Forget To Lock Your Computer!
 
-Drop a shell payload via command line. That's what happens when you forget to lock your computer! Only verified to work on OSX.
+Drop a shell payload via command line. That's what happens when you forget to lock your computer!
 
-##gitmeow
+##gitmeow (OSX)
 git with say meow first.
 
-```bash <(curl -s https://raw.githubusercontent.com/elwaxoro/DFTLYC/master/gitmeow.sh)```
+```bash <(curl -s https://raw.githubusercontent.com/elwaxoro/DFTLYC/master/gitmeow_osx.sh)```
 
-##newshell
+##newshell (OSX)
 each terminal that starts gets meow from every available voice
 
-```bash <(curl -s https://raw.githubusercontent.com/elwaxoro/DFTLYC/master/newshell.sh)```
+```bash <(curl -s https://raw.githubusercontent.com/elwaxoro/DFTLYC/master/newshell_oxs.sh)```
 
